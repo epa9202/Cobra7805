@@ -1,4 +1,4 @@
-Cobra Power Regulator
+Cobra7805 Power Regulator
 
 The Cobra Power Regulator , regulates incoming power to 5 Volts and delivers it to the Power Rails of the Breadboard.
 Most of the time I use the power from the computer to power the Microprocessors. But the USB port on the computer 
